@@ -1,0 +1,16 @@
+C:\Users\honey\source\repos\MaskSenstiveInfo\MaskSenstiveInfo\bin\Debug\net5.0\MaskSenstiveInfo.exe
+C:\Users\honey\source\repos\MaskSenstiveInfo\MaskSenstiveInfo\bin\Debug\net5.0\MaskSenstiveInfo.deps.json
+C:\Users\honey\source\repos\MaskSenstiveInfo\MaskSenstiveInfo\bin\Debug\net5.0\MaskSenstiveInfo.runtimeconfig.json
+C:\Users\honey\source\repos\MaskSenstiveInfo\MaskSenstiveInfo\bin\Debug\net5.0\MaskSenstiveInfo.runtimeconfig.dev.json
+C:\Users\honey\source\repos\MaskSenstiveInfo\MaskSenstiveInfo\bin\Debug\net5.0\MaskSenstiveInfo.dll
+C:\Users\honey\source\repos\MaskSenstiveInfo\MaskSenstiveInfo\bin\Debug\net5.0\ref\MaskSenstiveInfo.dll
+C:\Users\honey\source\repos\MaskSenstiveInfo\MaskSenstiveInfo\bin\Debug\net5.0\MaskSenstiveInfo.pdb
+C:\Users\honey\source\repos\MaskSenstiveInfo\MaskSenstiveInfo\obj\Debug\net5.0\MaskSenstiveInfo.csproj.AssemblyReference.cache
+C:\Users\honey\source\repos\MaskSenstiveInfo\MaskSenstiveInfo\obj\Debug\net5.0\MaskSenstiveInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honey\source\repos\MaskSenstiveInfo\MaskSenstiveInfo\obj\Debug\net5.0\MaskSenstiveInfo.AssemblyInfoInputs.cache
+C:\Users\honey\source\repos\MaskSenstiveInfo\MaskSenstiveInfo\obj\Debug\net5.0\MaskSenstiveInfo.AssemblyInfo.cs
+C:\Users\honey\source\repos\MaskSenstiveInfo\MaskSenstiveInfo\obj\Debug\net5.0\MaskSenstiveInfo.csproj.CoreCompileInputs.cache
+C:\Users\honey\source\repos\MaskSenstiveInfo\MaskSenstiveInfo\obj\Debug\net5.0\MaskSenstiveInfo.dll
+C:\Users\honey\source\repos\MaskSenstiveInfo\MaskSenstiveInfo\obj\Debug\net5.0\ref\MaskSenstiveInfo.dll
+C:\Users\honey\source\repos\MaskSenstiveInfo\MaskSenstiveInfo\obj\Debug\net5.0\MaskSenstiveInfo.pdb
+C:\Users\honey\source\repos\MaskSenstiveInfo\MaskSenstiveInfo\obj\Debug\net5.0\MaskSenstiveInfo.genruntimeconfig.cache
